@@ -1,4 +1,4 @@
-# Marico Customer Reconciliation System
+# AI-Customer-Reconciliation-n8n
 
 ### Intelligent Claims Resolution for OT / MT / D2C Channels
 
